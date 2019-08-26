@@ -1,6 +1,6 @@
 # RoadRunner
 
-A simple container for running a PHP application based on the RoadRunner server.
+A simple container for running a PHP application using the [RoadRunner](https://github.com/spiral/roadrunner) application server.
 
 ## Build Image
 
