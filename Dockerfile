@@ -1,5 +1,5 @@
 FROM golang:1.12 as builder
-# RoarRunner build step borrowed from https://github.com/n1215/roadrunner-docker-skeleton
+# RoadRunner build step borrowed from https://github.com/n1215/roadrunner-docker-skeleton
 
 ENV GO111MODULE on
 ENV RR_VERSION v1.4.1
